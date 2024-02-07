@@ -17,7 +17,7 @@ bhURL = 'https://www.bhphotovideo.com/c/product/1807873-REG/asus_rog_strix_rtx40
 """  
 project_name base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the gpu_bot project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!

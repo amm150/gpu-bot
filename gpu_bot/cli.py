@@ -15,7 +15,7 @@ Be creative! do whatever you want!
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m project_name` and `$ project_name `.
+    `python -m gpu_bot` and `$ gpu_bot `.
 
     This is your program's entry point.
 
